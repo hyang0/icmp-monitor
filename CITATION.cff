@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "如果您使用此ICMP监控程序，请引用它如下:"
+authors:
+  - family-names: "开发者"
+    given-names: "ICMP监控程序"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "ICMP监控程序"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567
+date-released: 2025-10-15
+url: "https://github.com/yourusername/icmp-monitor"
