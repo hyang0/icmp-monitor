@@ -32,7 +32,7 @@
 - Python 3.6+
 - Scapy库
 - 管理员权限（Windows）
-- 数据包捕获驱动（Windows需要npcap或winpcap）
+- 数据包捕获驱动（Windows需要[npcap](https://npcap.com/#download)）
 
 ## 安装步骤
 
